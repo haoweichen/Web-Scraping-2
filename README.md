@@ -21,10 +21,4 @@ Please define a function tweets_analysis as follows:
 * <strong>Plot the chart using matplotlib</strong>, not brunel package because brunel package can only run in Notebook environment
 * <strong>Don’t include “import brunel”, “%matplotlib inline”, and any magic functions</strong> in your script, because these functions need Notebook environment to run.
 * <strong>Include import statements</strong> and <strong>the main block</strong> in your code to test your function. To test your solution, in a terminal (mac) or command prompt (win), type: “python <your file name>.py”, you should see a plot if your code run successfully.
-Submission
- Turned In!
-Sep 28 at 4:14pm
-Submission Details
-Download Assignment3.py
-Comments:
-No Comments
+
